@@ -1,3 +1,7 @@
+'''author:aibel s anICKAL
+DATE:01-10-2024
+VERSION 1.0
+'''
 print("hello python")
 name=input("enter your name:")
 print(name)
