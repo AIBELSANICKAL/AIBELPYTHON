@@ -1,0 +1,14 @@
+'''
+name aibel s anickal
+date 05-10-2006
+version 1.0
+'''
+
+import math
+number=int(input("enter a number:"))
+square=math.sqrt(number)
+fact=math.factorial(number)
+power=math.pow(number,2)
+print(f"square root of{number}:{square}")
+print(f"factorial of{number}:{fact}")
+print(f"{number} raised to the power of 2:{power}")
