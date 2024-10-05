@@ -1,1 +1,3 @@
-print("twinkle,twinkle,little star,/n/t/thow i wonder what you are/n/t/tup the world is so high/n/t/t/,like a diamond in the sky./n/twinkle,twinkle,little star,/n/t/t how i wonder what you are")
+print("Twinkle, twinkle, little star, \n\tHow I wonder what you are! \n\t\tUp above the world so high, \n\t\tLike a diamond in the sky. \nTwinkle, twinkle, little star, \n\tHow I wonder what you are!")
+
+
