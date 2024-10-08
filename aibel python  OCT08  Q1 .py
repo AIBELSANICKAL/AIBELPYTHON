@@ -1,3 +1,9 @@
+'''
+name:aibel s anickal
+date:08-10-2024
+version:1.0
+
+
 num1=(int(input("enter the number:")))
 num2=(int(input("enter the number:")))
 num3=(int(input("enter the number")))
