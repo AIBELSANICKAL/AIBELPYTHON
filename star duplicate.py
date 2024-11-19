@@ -1,0 +1,1 @@
+user_input=(int(input("enter the number o0f")))
